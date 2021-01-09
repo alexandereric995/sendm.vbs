@@ -1,0 +1,2 @@
+# sendm.vbs
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e27c6ad629234a7c84e6cbb1f3dbee44)](https://app.codacy.com/gh/alexandereric995/sendm.vbs?utm_source=github.com&utm_medium=referral&utm_content=alexandereric995/sendm.vbs&utm_campaign=Badge_Grade_Settings)
